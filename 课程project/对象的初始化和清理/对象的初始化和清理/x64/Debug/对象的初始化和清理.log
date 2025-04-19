@@ -1,0 +1,3 @@
+﻿  const修饰成员函数.cpp
+C:\Users\18235\Desktop\C++相关\课程project\对象的初始化和清理\对象的初始化和清理\const修饰成员函数.cpp(29,15): warning C4269: “p1”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
+  对象的初始化和清理.vcxproj -> C:\Users\18235\Desktop\C++相关\课程project\对象的初始化和清理\x64\Debug\对象的初始化和清理.exe
